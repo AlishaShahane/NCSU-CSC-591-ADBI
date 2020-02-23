@@ -1,3 +1,6 @@
+## Generalized Linear Models
+I have built logistic regression models using all parameters, reduced parameter and single best parameter.
+
 The eBayAuctions.xls file must be in the same directory as the R Script.
 
 Installations: Required packages will be installed automatically in the script.
