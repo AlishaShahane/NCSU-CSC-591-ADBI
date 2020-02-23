@@ -1,11 +1,11 @@
 ## Generalized Linear Models
 I have built logistic regression models using all parameters, reduced parameter and single best parameter.
 
-The eBayAuctions.xls file must be in the same directory as the R Script.
+__Installations:__ Required packages will be installed automatically in the script.
 
-*Installations:* Required packages will be installed automatically in the script.
-
-Method: Grouping of column values is explained in the attached PDF.
+__Method:__ Grouping of column values is explained in the attached PDF.
 In case seed value is changed, the grouping should be changes as pivot tables generated would be different.
 
-Excel containg pivot tables, coefficients is added in the folder as well.
+- The eBayAuctions.xls file must be in the same directory as the R Script.
+- Excel containg pivot tables, coefficients is added in the folder as well.
+- In case the seed value is changed, it will result in a different train-test split. In this case, the grouping of attribute values must be changed.
